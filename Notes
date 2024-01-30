@@ -3,3 +3,5 @@
 Variable : A container for a value, String : A series of characters
 name = "Shady"
 To check type : print(type(name)) It's give data type 
+Data types:
+* String, Integer, Float, Boolean
