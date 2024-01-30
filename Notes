@@ -1,3 +1,5 @@
       My_Python_Notes
 -->  Dowmload IDE (Pycharm)
 Variable : A container for a value, String : A series of characters
+name = "Shady"
+To check type : print(type(name)) It's give data type 
