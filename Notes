@@ -5,3 +5,9 @@ name = "Shady"
 To check type : print(type(name)) It's give data type 
 Data types:
 * String, Integer, Float, Boolean
+Multiple assignments
+a=2
+b=3
+c=4
+a,b,c = 2,3,4
+--------------------------------20.46-----------
