@@ -23,5 +23,9 @@ b=3.0
 print(float(a))      --> 3.0
 print(int(b))        --> 3
 ---------------------------------------------
-
-
+User input
+name=input("Enter your Name : ")
+age = int(input("Enter youtr age: "))
+print("Hello " +name+" Welcome to the fightclub")
+print("You are "+str(age)+" years old")
+print(age+1)
