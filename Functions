@@ -1,1 +1,8 @@
-F
+    Math Functions
+Import math
+a=32.33
+x,y,z = 2,4,6
+print(round(3))  -> 3
+print(max(x,y,z))  -> 6 
+print(math.pow(a, 2))   -> 1045
+-----------------------------------------
